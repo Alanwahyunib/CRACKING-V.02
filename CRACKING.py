@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("play1").___Killer___()
+    __import__("kille").login()
 except Exception as e:
     exit(str(e))
