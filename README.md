@@ -15,6 +15,6 @@ Free Enjoy 😘
 😈 pip install bs4
 👿 pip install rich
 😈 pkg install git
-😈 git clone https://github.com/KILLER-BOY-202/KILLER-C-PRO
+😈 git clone https://github.com/KILLER-BOY-202/CRACKING-V.02.git
 😈 cd CRACKING-V.02
 😈 python2 CRACKING.py
